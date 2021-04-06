@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Real Time Group Chat App
 
 Live Site: [KothopoKothon](https://real-time-chat-app-c5ac0.web.app/).
 
